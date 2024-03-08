@@ -1,0 +1,2 @@
+# zerquotes
+random quote generator
